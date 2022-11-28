@@ -2,6 +2,7 @@
 1.feifei_resume is a resume written by Python, it includes education,experience and skills three sections. Run the .py file will print a formal resume
 
 1.1 Coupon analysis based on a real business dataset, figuring out how efficiently coupon redemption. Data shows that distance and discount rate have a weak negative correlation with coupon consumption. The overall coupon consumption only accounts for 9.7 percent of total sales. Meanwhile, only 7.16% of dispatched coupons were redeemed.
+
 1.2 Klook attraction analysis investigates a specific attraction's ticket income in Taipei, Taiwan. By exploring the data, an interesting finding is that there was a downtrend in revenue during February throughout the period from 2016 to 1019. Also, even though the ticket sales on Klook website experienced fluctuation, it keeps gradually increasing between 2016 and 2019
 
 2.Bank Loan Default Risk Analysis 
