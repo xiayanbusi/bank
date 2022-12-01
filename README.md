@@ -5,6 +5,8 @@
 
 1.2 Klook attraction analysis investigates a specific attraction's ticket income in Taipei, Taiwan. By exploring the data, an interesting finding is that there was a downtrend in revenue during February throughout the period from 2016 to 1019. Also, even though the ticket sales on Klook website experienced fluctuation, it keeps gradually increasing between 2016 and 2019
 
+1.3 Bank Client subscription modeling and prediction. The data is related with direct marketing campaigns of a Portuguese banking institution. The objective of this analysis is to predict if the client will subscribe a term deposit
+
 2.Bank Loan Default Risk Analysis 
 
 I conducted a bank loan default risk analysis. Discovered the driving factors behind loan default, identifying patterns that indicate if a client has difficulty paying their installments which may be used for taking actions such as denying a loan, reducing the amount of loan, lending at a higher interest rate, etc.
